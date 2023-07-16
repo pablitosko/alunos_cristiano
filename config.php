@@ -1,7 +1,7 @@
 <?php
 $server = "localhost"; //ip ou alias
 $username = "root"; //usuario
-$password = "Sk0vr0n5k!"; //senha banco
+$password = ""; //senha banco
 $dbname = "cristiano"; //database ou Schema
 // Create connection
 try{
